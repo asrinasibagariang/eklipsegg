@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Landing Page 1</description>
+   <name>LP001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b1401b1-b9e4-4e23-a301-0399d3b9a603</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Register 1</description>
+   <name>REG004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64888e85-56d3-427f-b7e2-36cf302ff131</testCaseGuid>
+</TestCaseEntity>
