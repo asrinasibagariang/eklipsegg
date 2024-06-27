@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete Account</name>
+   <tag></tag>
+   <elementGuidId>d93c4242-5fa5-42c3-8c40-9b62f67ca21e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[42]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-input-detail-row.d-block.d-md-flex.align-items-center.justify-content-between > div.text-right > button.ek-primary-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f51ce781-b8a8-4fff-b6a4-f15fecd102d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dce9f364-2135-4822-8bcd-7a0566fa0c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-primary-button</value>
+      <webElementGuid>9ddc17d8-879f-4443-9042-dd1acd40f44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Account</value>
+      <webElementGuid>077fa95d-6d4c-47c5-b4e6-e35167ef1f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-account-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-personal-detail&quot;]/div[@class=&quot;form-input-detail&quot;]/div[@class=&quot;form-input-detail-row d-block d-md-flex align-items-center justify-content-between&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;ek-primary-button&quot;]</value>
+      <webElementGuid>44ff0bc4-eccc-4e15-b5e4-148be15085c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[42]</value>
+      <webElementGuid>39943735-0b41-4a8b-8b62-7d61bb1755f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div[2]/div/div/div[3]/div[3]/div/div/button</value>
+      <webElementGuid>1715bb94-a11d-4a01-9aa3-b8a95a6ca677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::button[1]</value>
+      <webElementGuid>40db89d0-6b9d-4064-8c13-408b9514004d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::button[2]</value>
+      <webElementGuid>ba1c6cad-bbb0-4d31-8cd2-b26df883e658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current password'])[1]/preceding::button[1]</value>
+      <webElementGuid>cae4aac5-484d-45fa-8018-2fd6fad71560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New password'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d83d219-50b4-40d3-a7b0-54c073687515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Account']/parent::*</value>
+      <webElementGuid>96b8fdfa-7005-419d-a9fb-e557757eb387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/button</value>
+      <webElementGuid>06d97f0c-5826-4c50-afba-ff8972ec8d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Delete Account' or . = 'Delete Account')]</value>
+      <webElementGuid>b5061bc3-04d3-4459-bcdb-e366df73aba2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Skip for now</name>
+   <tag></tag>
+   <elementGuidId>960ecc28-9820-4c73-a6fa-1a1c2123d6e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[31]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-link--highlight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2fe9f90-0dff-4844-99fe-db4fba0c048b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>686e89ec-966d-422b-a5f9-2710ca10d2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link--highlight</value>
+      <webElementGuid>42b6a561-ff36-4f8a-9f4a-6a7d86a76325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skip for now</value>
+      <webElementGuid>eaab7f20-9839-4a27-82c2-84c48a88f422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ek-modal-simple-premium modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;w-100 text-center&quot;]/button[@class=&quot;btn btn-link--highlight&quot;]</value>
+      <webElementGuid>5b960e72-ca83-4002-94a0-ed05bd1153d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[31]</value>
+      <webElementGuid>4e24448b-43f4-4cd3-9b08-a6e5e7bd7fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlimited TikTok templates and watermark-free clips'])[1]/following::button[1]</value>
+      <webElementGuid>c8e8d9dd-9c1e-4b1b-ac69-bde4179eb8af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Render up to five times faster than before'])[1]/following::button[1]</value>
+      <webElementGuid>51d68d80-1f56-4570-807a-ae09bf3d058f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go Premium'])[3]/preceding::button[1]</value>
+      <webElementGuid>b68f3a0c-4efe-47af-b1cc-aede1bb94efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skip for now']/parent::*</value>
+      <webElementGuid>af48a2d2-3f24-4904-8af7-85d4ec8f224b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/button</value>
+      <webElementGuid>8c818179-0005-4fa0-83f6-eac5d8011894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Skip for now' or . = 'Skip for now')]</value>
+      <webElementGuid>6d96dbc5-320f-4244-873e-d5ac9cb7808a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

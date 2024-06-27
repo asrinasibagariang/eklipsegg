@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_See all_ic-user</name>
+   <tag></tag>
+   <elementGuidId>dc391b05-a62f-45e0-af9e-6c11b1e81c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/header/div/div/ul[5]/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ic-user</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5c437f7b-0aab-4aeb-aa84-0dae7d95eea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ic-user</value>
+      <webElementGuid>3dc3037d-c22d-4651-a969-ace67adb5adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/header[@class=&quot;ek-header&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;navigation d-flex show-desktop&quot;]/ul[@class=&quot;nav-account nav&quot;]/li[@class=&quot;dropdown nav-item&quot;]/a[@class=&quot;nav-link&quot;]/i[@class=&quot;ic-user&quot;]</value>
+      <webElementGuid>0934bfcf-2ab3-49ac-8b85-c424b45207d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/header/div/div/ul[5]/li/a/i</value>
+      <webElementGuid>83b0cc68-2436-4edf-bf72-43e09339797e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[5]/li/a/i</value>
+      <webElementGuid>ab644169-c401-4d29-b7a1-bfab62828cea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

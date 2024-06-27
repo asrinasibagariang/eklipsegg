@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Gamer Name</name>
+   <tag></tag>
+   <elementGuidId>db38fddc-44f5-4d0d-b46e-b42e52eca573</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div[2]/div/div[4]/div/div/div/div/div/label/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c9663878-0af8-4e2b-a85f-22ac2a76e495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ead72b13-cc37-4ef5-825c-72182e7306a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gamer Name</value>
+      <webElementGuid>93fb9fd6-173d-446f-8767-1d1723d8ebc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-account-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-game-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-game-setting-detail&quot;]/div[@class=&quot;form-input-detail&quot;]/div[@class=&quot;form-input-detail-row&quot;]/label[1]/div[1]/p[@class=&quot;label&quot;]</value>
+      <webElementGuid>3da3bedf-f40f-466c-b0b9-c968a4a80bbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div[2]/div/div[4]/div/div/div/div/div/label/div/p</value>
+      <webElementGuid>2e7f79a9-1e70-49a2-88cc-ecc40f298f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[5]/following::p[37]</value>
+      <webElementGuid>3bd064b0-312d-4b68-b966-82d9eef64755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[4]/following::p[40]</value>
+      <webElementGuid>38cfe776-3424-4b55-bec6-6d4e3448e987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fill in with your Player name'])[1]/preceding::p[1]</value>
+      <webElementGuid>aac630fd-2f26-41a4-b6ae-d896cda2582a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose the region of your country'])[1]/preceding::p[2]</value>
+      <webElementGuid>f3c1b1fe-b336-4e00-a194-c87320e971a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gamer Name']/parent::*</value>
+      <webElementGuid>cd8cad4b-0970-4d72-b75f-3c78dbe20f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/p</value>
+      <webElementGuid>e2202a74-ed6c-4f39-bb05-f48170c1d196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Gamer Name' or . = 'Gamer Name')]</value>
+      <webElementGuid>fc5d962d-9132-45fc-8004-2bb6ad88ac2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

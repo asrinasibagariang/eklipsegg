@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Premium Plan</name>
+   <tag></tag>
+   <elementGuidId>839df516-f84b-445e-bea8-aa7eeb1de5dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>831d00c0-a364-4343-98e3-8a97438c5570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>4d736ce9-0393-4d88-b445-51905ba2ba79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gswNZR bbLVwL account-setting-tab</value>
+      <webElementGuid>ac9cb378-c45d-4316-90d1-5ba1b43feade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Premium Plan</value>
+      <webElementGuid>7a60b141-0454-461c-8d5c-cbcca07b52c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)</value>
+      <webElementGuid>4c0ada2e-65e4-45ec-8a71-6ce5c13e2a5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='2']</value>
+      <webElementGuid>2d2c60ba-b9c1-40bd-a551-c1919cd367c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div[2]/div/ul/li[3]</value>
+      <webElementGuid>c7fb09f9-b2b3-441e-b698-62a9a9f9217f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Setting'])[1]/following::li[3]</value>
+      <webElementGuid>f3246a52-1b8a-4321-96de-ff9faca8970a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[3]/following::li[3]</value>
+      <webElementGuid>f74bbf05-fa59-4f67-89bc-9450b375933f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[3]/preceding::li[2]</value>
+      <webElementGuid>2a2bd089-afb3-4ede-9ee8-37cde9fa06d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eklipse now support Rumble.com'])[1]/preceding::li[2]</value>
+      <webElementGuid>c1f64f02-4687-4320-9b8b-4c5ee134b846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[3]</value>
+      <webElementGuid>3b28134e-7f46-44d8-b496-693c52c09b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '2' and (text() = 'Premium Plan' or . = 'Premium Plan')]</value>
+      <webElementGuid>90f9178c-2d7c-45f4-b4f5-4406a475d89b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
